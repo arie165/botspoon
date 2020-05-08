@@ -13,5 +13,5 @@
 12. git clone https://github.com/fakkyubot/botspoon
 
 # Cara menjalankan Script :
-• cd botspoon
-• python botspoon.py
+1. cd botspoon
+2. python botspoon.py
